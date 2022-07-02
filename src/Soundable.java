@@ -1,3 +1,3 @@
 public interface Soundable {
-    public void sound();
+     void sound();
 }
